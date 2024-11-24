@@ -1,7 +1,7 @@
 /*
 * Maquina de fichas
 * =============================================================
-* Escrito por: Eliane Chen Dahab
+* Escrito por: ******
 
 * Esse programa simula uma maquina de fichas.
 * A maquina possui 5 fichas de valores diferentes.
