@@ -1,7 +1,7 @@
 /*
 * Operacoes matematicas
 * =============================================================
-* Escrito por: Eliane Chen Dahab
+* Escrito por: *****
 
 * Esse programa simula uma maquina que realiza operacoes matematicas.
 * O usuario deve inserir dois numeros reais.
